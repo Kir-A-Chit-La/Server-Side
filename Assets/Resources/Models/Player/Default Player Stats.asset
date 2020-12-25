@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 711a7d154d3a1334f934cae7ecfded97, type: 3}
+  m_Name: Default Player Stats
+  m_EditorClassIdentifier: 
+  Health:
+    BaseValue: 100
+  Strength:
+    BaseValue: 10
+  Armour:
+    BaseValue: 0
+  FreezeResistance:
+    BaseValue: 0
+  HeatResistance:
+    BaseValue: 0
+  Experience:
+    BaseValue: 0
+  StandingSpeed:
+    BaseValue: 3
+  CrouchingSpeed:
+    BaseValue: 1.5
+  Stench:
+    BaseValue: 0
+  Luck:
+    BaseValue: 0
+  BackpackSize:
+    BaseValue: 7
